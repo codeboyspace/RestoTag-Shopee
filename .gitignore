@@ -1,0 +1,16 @@
+venv/
+env/
+*.pyc
+__pycache__/
+db.sqlite3
+.DS_Store
+
+# Django-specific
+/media/
+/staticfiles/
+*.log
+*.pot
+*.pyc
+*.swp
+*.swo
+*.swn
