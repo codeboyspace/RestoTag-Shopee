@@ -62,8 +62,8 @@
 ### **Backend Setup (Django)**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/e-commerce-app.git
-   cd e-commerce-app/backend
+   git clone https://github.com/codeboyspace/RestoTag-Shopee.git
+   cd RestoTag.git/backend
    ```
 2. Create a virtual environment and install dependencies:
    ```sh
